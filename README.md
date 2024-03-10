@@ -1,4 +1,4 @@
-# Gulp Template Generator
+# Kafil Task
 
 ## Features
 
@@ -6,6 +6,7 @@
 - Pug for HTML templates
 - Live reloading with BrowserSync
 - Basic project structure
+- Components
 
 ## Getting Started
 
